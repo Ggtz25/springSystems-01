@@ -9,7 +9,7 @@ fn check_guess(guess:i32, secret: i32) -> i32{
 }
 
 fn main (){
-    let secret:i32 = 26;
+    let secret:i32 = 6;
 
     let mut attempts:i32 =0;
 
